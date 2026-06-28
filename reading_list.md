@@ -19,10 +19,9 @@ incrementally updated to include more papers as we go.
 
 [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal) [USENIX OSDI 2024]
 
-[DSpark: Confidence-Scheduled Speculative Decoding with Semi=Autoregressive Generation](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
-
 [Understanding Stragglers in Large Model Training Using What-if Analysis](https://www.usenix.org/conference/osdi25/presentation/lin-jinkun) [USENIX OSDI 2025]
 
+[DSpark: Confidence-Scheduled Speculative Decoding with Semi=Autoregressive Generation](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
 
 
 
