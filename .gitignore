@@ -1,0 +1,41 @@
+# macOS filesystem metadata
+.DS_Store
+._*
+
+# Jekyll build output and caches
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Ruby / Bundler local installs
+.bundle/
+vendor/bundle/
+vendor/cache/
+vendor/ruby/
+
+# Node tooling, if used for theme or asset work
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+coverage/
+
+# Editor / IDE metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
