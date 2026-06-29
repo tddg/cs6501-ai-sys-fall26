@@ -17,11 +17,17 @@ incrementally updated to include more papers as we go.
 
 [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/pdf/2303.06865) [ICML 2023]
 
+[Accelerating Large Language Model Decoding with Speculative Sampling](https://arxiv.org/pdf/2302.01318)
+
 [InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management](https://www.usenix.org/conference/osdi24/presentation/lee) [USENIX OSDI 2024]
 
 [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) [USENIX OSDI 2024]
 
 [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://www.usenix.org/conference/osdi24/presentation/agrawal) [USENIX OSDI 2024]
+
+[LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514) [ACL 2024]
+
+[CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving](https://dl.acm.org/doi/10.1145/3651890.3672274) [SIGCOMM 2024]
 
 [Understanding Stragglers in Large Model Training Using What-if Analysis](https://www.usenix.org/conference/osdi25/presentation/lin-jinkun) [USENIX OSDI 2025]
 
