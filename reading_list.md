@@ -17,6 +17,8 @@ incrementally updated to include more papers as we go.
 
 [FlexGen: High-Throughput Generative Inference of Large Language Models with a Single GPU](https://arxiv.org/pdf/2303.06865) [ICML 2023]
 
+[H2O: heavy-hitter oracle for efficient generative inference of large language models](https://arxiv.org/pdf/2306.14048) [NIPS 2023]
+
 [Accelerating Large Language Model Decoding with Speculative Sampling](https://arxiv.org/pdf/2302.01318)
 
 [InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management](https://www.usenix.org/conference/osdi24/presentation/lee) [USENIX OSDI 2024]
