@@ -7,7 +7,7 @@ title: AI infrastructure
 09/14
 
 : [Lec6: AI compute infrastructure I](#)
-: [Projects](#)
+: [Project introduction](#)
 
 09/16
 
