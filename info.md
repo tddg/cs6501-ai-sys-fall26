@@ -20,7 +20,7 @@ nav_order: 1
 
 ## Reading 
 
-Required readings are from the open-source textbook [Machine Learning Systems](https://mlsysbook.ai/):
+Required readings are from the open-source textbook [Machine Learning Systems](https://mlsysbook.ai/) and the paper reading list:
 
 * [Vol1: Introduction to Machine Learning Systems](https://mlsysbook.ai/vol1/). The MIT Press (2026). Vijay Janapa Reddi. 
 (**free book**).
