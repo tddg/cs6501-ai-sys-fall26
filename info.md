@@ -29,6 +29,8 @@ Required readings are from the open-source textbook [Machine Learning Systems](h
 The MIT Press (2026). Vijay Janapa Reddi.  
 (**free book**).
 
+* [Paper reading list](/cs6501-ai-sys-fall26/reading_list).
+
 
 ## Class Format and Tentative Schedule
 
