@@ -26,6 +26,5 @@ title: Introduction, AI systems foundation
 09/09
 : [Lec5: Hardware acceleration](#) 
 
- 
 : **A1 due (09/09)**{: .label .label-purple } 
 

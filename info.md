@@ -105,10 +105,10 @@ ahead and get started early!
 
 Your grade will be calculated as follows:
 
-* Assignments: 30%
+* Assignments: 20%
 * Class participation: 10%
 * Paper presentation: 10%
-* Project: 50%
+* Project: 60%
 
 
 ## Academic Integrity

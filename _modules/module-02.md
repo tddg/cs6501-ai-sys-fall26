@@ -8,11 +8,11 @@ title: AI infrastructure
 
 : [Lec6: AI compute infrastructure](#)
 
+: **Project team signup due (09/14)**{: .label .label-blue } 
+
 09/16
 
 : [Lec7: AI network communication](#)
-
-: **Project team signup due (09/16)**{: .label .label-blue } 
 
 
 
@@ -26,5 +26,4 @@ title: AI infrastructure
 
 : [Lec9: AI storage infrastructure II](#)
 
-: **A2 due (09/23)**{: .label .label-purple } 
 

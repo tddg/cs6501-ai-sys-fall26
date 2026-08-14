@@ -12,7 +12,7 @@ title: LLM inference
 
 : [Lec12: LLM inference I (vLLM, KVC, speculative decoding)](#)
 
-: **Project proposal due (10/07)**{: .label .label-blue }
+: **Paper presentation signup due (10/07)**{: .label .label-purple }
 
 
 **Week 8**
@@ -24,6 +24,4 @@ title: LLM inference
 10/14
 
 : [Lec14: AI agents](#)
-
-: **Paper presentation signup due (10/14)**{: .label .label-purple }
 

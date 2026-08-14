@@ -13,3 +13,5 @@ title: Model training paradigm and performance engineering
 
 : [Lec11: FlashAttention](#)
 
+: **Project proposal due (09/30)**{: .label .label-blue }
+
