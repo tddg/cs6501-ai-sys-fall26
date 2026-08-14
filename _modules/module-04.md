@@ -1,24 +1,29 @@
 ---
-title: Inference at scale
+title: LLM inference
 ---
 
-**Week 9**
+**Week 7**
 
-10/19
+10/05
 
-: [Lec15: LLM inference I (vLLM, KVC, speculative decoding)](#)
+: **Reading day (no class)**{: .label .label-green }
 
-10/21
+10/07
 
-: [Lec16: LLM inference II (vLLM, KVC, speculative decoding)](#)
+: [Lec12: LLM inference I (vLLM, KVC, speculative decoding)](#)
+
+: **Project proposal due (10/07)**{: .label .label-blue }
 
 
-**Week 10**
+**Week 8**
 
-10/26
+10/12
 
-: [Lec17: AI agents](#)
+: [Lec13: LLM inference II (vLLM, KVC, speculative decoding)](#)
 
-10/28
+10/14
 
-: **Project checkpoint presentation**{: .label .label-red}
+: [Lec14: AI agents](#)
+
+: **Paper presentation signup due (10/14)**{: .label .label-purple }
+

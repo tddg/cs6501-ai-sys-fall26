@@ -39,14 +39,10 @@ lectures during the first ten weeks and one-third student-led paper
 presentations and guest lectures during the final five weeks. 
 
 * **Week 1-3:** AI systems foundation
-* **Week 4:** AI compute infrastructure
-* **Week 5:** AI network infrastructure
-* **Week 6:** AI storage infrastructure
-* **Week 7-8:** Distributed training and performance engineering (FlashAttention)
-* **Week 9-10:** Inference at scale (vLLM, KVC, speculative decoding)
-* **Week 11-14:** Student presentations and guest lectures on selected AI
-systems papers, including production-scale training systems, the
-DeepSpeed system series, KV-cache optimization, etc.
+* **Week 4-5:** AI infrastructure
+* **Week 6:** Model training and performance engineering
+* **Week 7-8:** LLM inference (vLLM, KVC, speculative decoding)
+* **Week 9-14:** Student presentations and guest lectures on selected AI systems papers
 * **Week 15-16:** Final project showcase 
 
 
@@ -69,7 +65,7 @@ people).
 ## Presentation
 
 Each student will be assigned one or more research papers (based on
-class size) to present during Week 10 to Week 14. 
+class size) to present during Week 9 to Week 14. 
 
 * **Preparation:** Prepare a 25-30 minutes presentation on the paper,
 summarizing the research problem, methods, results, and implications.

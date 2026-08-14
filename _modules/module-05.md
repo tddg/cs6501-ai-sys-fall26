@@ -3,6 +3,28 @@ title: Student paper presentations, guest lectures
 ---
 
 
+**Week 9**
+
+10/19
+
+: TBD
+
+10/21
+
+: TBD
+
+
+**Week 10**
+
+10/26
+
+: TBD
+
+10/28
+
+: **Project checkpoint presentation**{: .label .label-red}
+
+
 **Week 11**
 
 11/02

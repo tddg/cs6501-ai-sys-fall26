@@ -1,30 +1,15 @@
 ---
-title: Distributed training
+title: Model training paradigm and performance engineering
 ---
 
 
-**Week 7**
+**Week 6**
 
-10/05
+09/28
 
-: **Reading day (no class)**{: .label .label-green }
+: [Lec10: Distributed training](#)
 
-10/07
+09/30
 
-: [Lec12: Distributed training I](#)
-
-: **Project proposal due (10/07)**{: .label .label-blue }
-
-
-**Week 8**
-
-10/12
-
-: [Lec13: Distributed training II](#)
-
-10/14
-
-: [Lec14: Performance engineering (FlashAttention)](#)
-
-: **Paper presentation signup due (10/14)**{: .label .label-purple }
+: [Lec11: FlashAttention](#)
 

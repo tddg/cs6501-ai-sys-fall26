@@ -12,7 +12,7 @@ title: Introduction, AI systems foundation
 **Week 2**
 
 08/31
-: [Lec2: Data types, model training](#)
+: [Lec2: Floating point data types and nondeterminism in LLM inference](#)
 
 09/02
 : [Lec3: Model compression](#) 
@@ -21,10 +21,10 @@ title: Introduction, AI systems foundation
 **Week 3**
 
 09/07
-: [Lec4: Hardware acceleration I](#)
+: [Lec4: Project introduction](#)
 
 09/09
-: [Lec5: Hardware acceleration II](#) 
+: [Lec5: Hardware acceleration](#) 
 
  
 : **A1 due (09/09)**{: .label .label-purple } 
