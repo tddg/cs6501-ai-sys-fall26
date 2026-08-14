@@ -12,7 +12,7 @@ title: Introduction, AI systems foundation
 **Week 2**
 
 08/31
-: [Lec2: Floating point data types and nondeterminism in LLM inference](#)
+: [Lec2: Floating-point data types](#)
 
 09/02
 : [Lec3: Model compression](#) 
