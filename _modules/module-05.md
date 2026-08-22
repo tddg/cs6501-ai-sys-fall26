@@ -57,6 +57,8 @@ title: Student paper presentations, guest lectures
 
 : TBD
 
+: **Inference Speedrun report due**{: .label .label-purple }
+
 
 **Week 14**
 

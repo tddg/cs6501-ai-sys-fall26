@@ -14,6 +14,8 @@ title: AI infrastructure
 
 : [Lec7: AI network communication](#)
 
+: **Inference Speedrun artifact due (09/16)**{: .label .label-purple } 
+
 
 
 **Week 5**

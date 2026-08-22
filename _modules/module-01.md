@@ -4,9 +4,13 @@ title: Introduction, AI systems foundation
 
 **Week 1**
 
+08/24
+: Fill out [background survey](https://forms.gle/WwyFnm9ZBLSwG2EP8) by 08/25
+
 08/26
 : [Lec1: Course introduction](#)
 
+: **Inference Speedrun assignment out**{: .label .label-purple }
 
 
 **Week 2**
@@ -26,5 +30,4 @@ title: Introduction, AI systems foundation
 09/09
 : [Lec5: Hardware acceleration](#) 
 
-: **A1 due (09/09)**{: .label .label-purple } 
 
