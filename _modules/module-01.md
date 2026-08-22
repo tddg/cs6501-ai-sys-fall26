@@ -16,10 +16,10 @@ title: Introduction, AI systems foundation
 **Week 2**
 
 08/31
-: [Lec2: Floating-point data types](#)
+: [Lec2: Numeric data types](#)
 
 09/02
-: [Lec3: Model compression](#) 
+: [Lec3: Model quantization and compression](#) 
 
 
 **Week 3**
