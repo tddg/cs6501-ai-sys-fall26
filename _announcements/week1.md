@@ -5,5 +5,6 @@ date: 2026-08-25
 ---
 
 * Welcome to CS 6501 AI Systems!
+* Fill out [background survey](#) by 08/25.
 
 {: .fs-5 }
