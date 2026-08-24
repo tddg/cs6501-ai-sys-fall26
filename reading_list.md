@@ -37,8 +37,10 @@ incrementally updated to include more papers as we go.
 
 [Understanding Stragglers in Large Model Training Using What-if Analysis](https://www.usenix.org/conference/osdi25/presentation/lin-jinkun) [USENIX OSDI 2025]
 
+[DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036)
+
 [DSpark: Confidence-Scheduled Speculative Decoding with Semi=Autoregressive Generation](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
 
-
+[FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://arxiv.org/abs/2608.16157v1)
 
 

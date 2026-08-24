@@ -5,7 +5,7 @@ title: Introduction, AI systems foundation
 **Week 1**
 
 08/24
-: Fill out [background survey](#) by 08/25
+: Fill out [background survey](https://forms.gle/8Yt4piLGz1zwnWKd8) by 08/25
 
 08/26
 : [Lec1: Course introduction](#)
