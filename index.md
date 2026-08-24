@@ -80,7 +80,7 @@ and build a distributed AI application.
 * AI systems foundation
 * AI compute infrastructure
 * AI network infrastructure
-* AI storage infraastructure
+* AI storage infrastructure
 * Distributed training
 * Inference at scale
 * FlashAttention
