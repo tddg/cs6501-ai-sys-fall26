@@ -8,8 +8,9 @@ title: Introduction, AI systems foundation
 : Fill out [background survey](https://forms.gle/8Yt4piLGz1zwnWKd8) by 08/25
 
 08/26
-: [Lec1: Course introduction](#)
+: [Lec1: Course introduction](/cs6501-ai-sys-fall26/assets/docs/lec1-intro.pdf)
 
+08/28
 : **Inference Speedrun assignment out**{: .label .label-purple }
 
 
