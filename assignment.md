@@ -2,7 +2,7 @@
 layout: page
 title: Inference Speedrun
 nav_order: 6
-published: false
+published: true
 ---
 
 # Assignment: LLM Inference Speedrun
