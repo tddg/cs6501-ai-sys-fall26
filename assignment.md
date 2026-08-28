@@ -404,7 +404,7 @@ drawn from prior work.
 For the report, only **PDF** will be accepted. 
 
 
-### Oral defense (scheduled meetings)
+### 3. Oral defense (scheduled meetings)
 
 For the third deliverable, see below.
 
