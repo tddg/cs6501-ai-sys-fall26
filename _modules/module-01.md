@@ -14,7 +14,7 @@ title: Introduction, AI systems foundation
 : Reading: [The Bitter Lesson](http://incompleteideas.net/IncIdeas/BitterLesson.html); [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf); [Software 2.0](https://karpathy.medium.com/software-2-0-a64152b37c35)
 
 08/28
-: **[Inference Speedrun](/cs6501-ai-sys-fall26/assignment) assignment out**{: .label .label-purple }
+: **[Inference Speedrun](/cs6501-ai-sys-fall26/assignment) out**{: .label .label-purple }
 
 
 **Week 2**
