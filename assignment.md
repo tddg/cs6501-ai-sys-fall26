@@ -2,6 +2,7 @@
 layout: page
 title: Inference Speedrun
 nav_order: 6
+published: false
 ---
 
 # Assignment: LLM Inference Speedrun
@@ -66,6 +67,7 @@ scenario, so you will *see* each technique pay off:
 | Weight quantization (INT4/INT8) | decode latency (T4 decode is memory-bandwidth-bound: ~25 ms/token floor at FP16) |
 | Prefill engineering (attention kernels, int8 tensor cores) | time-to-first-token on long prompts |
 | Speculative decoding | single-stream latency — from train-free prompt-lookup up to draft-model verification (bring your own drafter; see *Speculative decoding* below) |
+| **Your own invention** | whatever you can prove it moves. This list is where the field currently is, not where it ends. An idea that appears on no list, works on this hardware, and survives your own ablations is the best thing this assignment can produce |
 
 
 **You may not use existing serving engines** (vLLM, SGLang, TGI,
