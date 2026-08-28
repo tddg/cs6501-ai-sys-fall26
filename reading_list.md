@@ -31,6 +31,8 @@ incrementally updated to include more papers as we go.
 
 [FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving](https://arxiv.org/abs/2501.01005) [MLSys 2025]
 
+[KTransformers: Unleashing the Full Potential of CPU/GPU Hybrid Inference for MoE Models](https://dl.acm.org/doi/10.1145/3731569.3764843) [SOSP 2025]
+
 [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514) [ACL 2024]
 
 [CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving](https://dl.acm.org/doi/10.1145/3651890.3672274) [SIGCOMM 2024]
