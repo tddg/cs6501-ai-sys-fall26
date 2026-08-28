@@ -33,11 +33,11 @@ incrementally updated to include more papers as we go.
 
 [KTransformers: Unleashing the Full Potential of CPU/GPU Hybrid Inference for MoE Models](https://dl.acm.org/doi/10.1145/3731569.3764843) [SOSP 2025]
 
+[Mirage: A Multi-Level Superoptimizer for Tensor Programs](https://www.usenix.org/conference/osdi25/presentation/wu-mengdi) [OSDI 2025]
+
 [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514) [ACL 2024]
 
 [CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving](https://dl.acm.org/doi/10.1145/3651890.3672274) [SIGCOMM 2024]
-
-[Mirage: A Multi-Level Superoptimizer for Tensor Programs](https://www.usenix.org/conference/osdi25/presentation/wu-mengdi) [OSDI 2025]
 
 [Understanding Stragglers in Large Model Training Using What-if Analysis](https://www.usenix.org/conference/osdi25/presentation/lin-jinkun) [USENIX OSDI 2025]
 
