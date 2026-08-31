@@ -21,6 +21,7 @@ title: Introduction, AI systems foundation
 
 08/31
 : [Lec2: Numeric data types](/cs6501-ai-sys-fall26/assets/docs/lec2-numeric-dtypes.pdf)
+  : [Video](https://edstem.org/us/courses/103280/discussion/8222602)
 
 : Reading: [Floating Point and IEEE 754](https://docs.nvidia.com/cuda/pdf/Floating_Point_on_NVIDIA_GPU.pdf); 
 [Using FP8 and FP4 with Transformer Engine](https://docs.nvidia.com/deeplearning/transformer-engine/user-guide/examples/fp8_primer.html);
