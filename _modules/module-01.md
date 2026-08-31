@@ -20,7 +20,7 @@ title: Introduction, AI systems foundation
 **Week 2**
 
 08/31
-: [Lec2: Numeric data types](#)
+: [Lec2: Numeric data types](/cs6501-ai-sys-fall26/assets/docs/lec2-numeric-dtypes.pdf)
 
 09/02
 : [Lec3: Model quantization and compression](#) 
