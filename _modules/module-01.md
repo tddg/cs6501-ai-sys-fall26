@@ -28,7 +28,7 @@ title: Introduction, AI systems foundation
 [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
 
 09/02
-: [Lec3: Model quantization and compression](#) 
+: [Lec3: Model quantization and compression](https://edstem.org/us/courses/103280/discussion/8226865) 
 
 
 **Week 3**
