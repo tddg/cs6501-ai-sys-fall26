@@ -47,4 +47,4 @@ incrementally updated to include more papers as we go.
 
 [FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://arxiv.org/abs/2608.16157v1)
 
-
+[LLM-as-a-Verifier: A General-Purpose Verification Framework](https://arxiv.org/abs/2607.05391)
