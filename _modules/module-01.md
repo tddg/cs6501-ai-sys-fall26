@@ -28,20 +28,23 @@ title: Introduction, AI systems foundation
 [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference/)
 
 09/02
-: [Lec3: Model quantization and compression](https://edstem.org/us/courses/103280/discussion/8226865) 
+: [Lec3-1: Model quantization](https://edstem.org/us/courses/103280/discussion/8226865) 
   : [Video 1](https://edstem.org/us/courses/103280/discussion/8229593)
 
 : Reading: [mlsysbook: Quantization and Precision](https://mlsysbook.ai/vol1/model_compression/model_compression.html#sec-model-compression-quantization-precision-cd46); 
-[Building a quantization paradigm from first principles](https://github.com/google/gemmlowp/blob/master/doc/quantization.md);
-[ZipLLM [NSDI'26]](https://www.usenix.org/conference/nsdi26/presentation/wang-zirui);
-[TensorDex [SOSP'26]](https://arxiv.org/abs/2604.17104)
+[Building a quantization paradigm from first principles](https://github.com/google/gemmlowp/blob/master/doc/quantization.md)
+
 
 **Week 3**
 
 09/07
-: [Lec4: Project introduction](#)
+: [Lec3-2: Model compression](https://edstem.org/us/courses/103280/discussion/8226865) 
+
+: Reading: [ZipLLM [NSDI'26]](https://www.usenix.org/conference/nsdi26/presentation/wang-zirui);
+[TensorDex [SOSP'26]](https://arxiv.org/abs/2604.17104)
+
 
 09/09
-: [Lec5: Hardware acceleration](#) 
+: [Lec4: Project introduction](#)
 
 

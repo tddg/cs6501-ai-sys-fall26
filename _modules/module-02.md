@@ -6,13 +6,13 @@ title: AI infrastructure
 
 09/14
 
-: [Lec6: AI compute infrastructure](#)
+: [Lec5: Hardware acceleration](#) 
 
 : **Project team signup due (09/14)**{: .label .label-blue } 
 
 09/16
 
-: [Lec7: AI network communication](#)
+: [Lec6: AI compute infrastructure](#)
 
 : **Inference Speedrun artifact due (09/16)**{: .label .label-purple } 
 
@@ -22,10 +22,10 @@ title: AI infrastructure
 
 09/21
 
-: [Lec8: AI storage infrastructure I](#)
+: [Lec7: AI network communication](#)
 
 09/23
 
-: [Lec9: AI storage infrastructure II](#)
+: [Lec8: AI storage infrastructure](#)
 
 
