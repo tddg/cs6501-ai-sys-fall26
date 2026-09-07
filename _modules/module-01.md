@@ -39,10 +39,12 @@ title: Introduction, AI systems foundation
 
 09/07
 : [Lec3-2: Model compression](https://edstem.org/us/courses/103280/discussion/8226865) 
-  : [Video](https://edstem.org/us/courses/103280/discussion/8244143)
+  : [Video](https://edstem.org/us/courses/103280/discussion/8244143) 
 
 : Reading: [ZipLLM [NSDI'26]](https://www.usenix.org/conference/nsdi26/presentation/wang-zirui);
 [TensorDex [SOSP'26]](https://arxiv.org/abs/2604.17104)
+
+: Pickle safety: [Demo](https://claude.ai/code/artifact/cb4b165f-e05d-4e6b-a78a-5838dfe4f2a3)
 
 
 09/09
