@@ -29,7 +29,7 @@ title: Introduction, AI systems foundation
 
 09/02
 : [Lec3-1: Model quantization](https://edstem.org/us/courses/103280/discussion/8226865) 
-  : [Video 1](https://edstem.org/us/courses/103280/discussion/8229593)
+  : [Video](https://edstem.org/us/courses/103280/discussion/8229593)
 
 : Reading: [mlsysbook: Quantization and Precision](https://mlsysbook.ai/vol1/model_compression/model_compression.html#sec-model-compression-quantization-precision-cd46); 
 [Building a quantization paradigm from first principles](https://github.com/google/gemmlowp/blob/master/doc/quantization.md)
@@ -39,6 +39,7 @@ title: Introduction, AI systems foundation
 
 09/07
 : [Lec3-2: Model compression](https://edstem.org/us/courses/103280/discussion/8226865) 
+  : [Video](https://edstem.org/us/courses/103280/discussion/8244143)
 
 : Reading: [ZipLLM [NSDI'26]](https://www.usenix.org/conference/nsdi26/presentation/wang-zirui);
 [TensorDex [SOSP'26]](https://arxiv.org/abs/2604.17104)
