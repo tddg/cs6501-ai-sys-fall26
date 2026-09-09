@@ -49,5 +49,6 @@ title: Introduction, AI systems foundation
 
 09/09
 : [Lec4: Project introduction](https://edstem.org/us/courses/103280/discussion/8249960)
+  : [Video](https://edstem.org/us/courses/103280/discussion/8251707)
 
 
