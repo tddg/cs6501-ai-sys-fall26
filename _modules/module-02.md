@@ -6,7 +6,12 @@ title: AI infrastructure
 
 09/14
 
-: [Lec5: Hardware acceleration](#) 
+: [Lec5: Hardware acceleration](/cs6501-ai-sys-fall26/assets/docs/lec5-hardware-acceleration.pdf) 
+  
+: Reading: [mlsysbook: Hardware Acceleration](https://mlsysbook.ai/vol1/hw_acceleration/hw_acceleration.html) (required);
+[Memory wall UVA tech report](https://doi.org/10.18130/V3FZ1C) (optional); 
+[Roofline model UC Berkeley tech report](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2008/Archive/EECS-2008-134.pdf) (optional);
+[OpenAI Jalapeño first results](https://openai.com/index/jalapeno-first-results/) (optional)
 
 : **Project team signup due (09/14)**{: .label .label-blue } 
 

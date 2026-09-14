@@ -43,6 +43,8 @@ Check here before posting.*
   nests everything under `my_project/` and fails validation — instead
   run `tar -czf sub.tar.gz start_server.sh server.py ...` from inside
   your project directory (or use `-C my_project .`).
+- **Tar ball submission updated:** The tar ball should be submitted to
+both the grading service dashboard and Canvas.
 
 
 ## Overview
@@ -338,10 +340,15 @@ Three deliverables.
 
 ### 1. Submission tar ball (Canvas)
 
-Submit through the course dashboard at
+Submit the tar ball at two places:
+
+  * through the course dashboard at
 <http://inferencebench.cs.virginia.edu> (campus network or UVA VPN
 required — build your tarball on your dev machine, copy it to your
-laptop, and upload from there):
+laptop, and upload from there);
+  * through Canvas,
+
+the following items:
 
 ```
 submission.tar.gz
