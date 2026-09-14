@@ -7,6 +7,7 @@ title: AI infrastructure
 09/14
 
 : [Lec5: Hardware acceleration](/cs6501-ai-sys-fall26/assets/docs/lec5-hardware-acceleration.pdf) 
+  : [Video 1](https://edstem.org/us/courses/103280/discussion/8267620)
   
 : Reading: [mlsysbook: Hardware Acceleration](https://mlsysbook.ai/vol1/hw_acceleration/hw_acceleration.html) (required);
 [Memory wall UVA tech report](https://doi.org/10.18130/V3FZ1C) (optional); 
