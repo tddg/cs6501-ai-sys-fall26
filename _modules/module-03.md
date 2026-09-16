@@ -7,11 +7,11 @@ title: Model training paradigm and performance engineering
 
 09/28
 
-: [Lec10: Distributed training](#)
+: [Lec8: AI storage infrastructure](#)
 
 09/30
 
-: [Lec11: FlashAttention](#)
+: [Lec9: FlashAttention](#)
 
 : **Project proposal due (09/30)**{: .label .label-blue }
 

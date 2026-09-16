@@ -10,7 +10,7 @@ title: LLM inference
 
 10/07
 
-: [Lec12: LLM inference I (vLLM, KVC, speculative decoding)](#)
+: [Lec10: Distributed training](#)
 
 : **Paper presentation signup due (10/07)**{: .label .label-purple }
 
@@ -19,9 +19,9 @@ title: LLM inference
 
 10/12
 
-: [Lec13: LLM inference II (vLLM, KVC, speculative decoding)](#)
+: [Lec11: LLM inference II (vLLM, KVC, speculative decoding)](#)
 
 10/14
 
-: [Lec14: AI agents](#)
+: [Lec12: AI agents](#)
 
