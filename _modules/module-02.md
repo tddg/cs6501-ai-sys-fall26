@@ -21,7 +21,10 @@ title: AI infrastructure
 
 : Reading see 09/14
 
+: Systolic array: [Demo](https://claude.ai/artifact/RfUUiZyngmwAfpH6PbSW17)
+
 : **Inference Speedrun artifact due (09/16)**{: .label .label-purple } 
+
 
 09/17
 
