@@ -36,7 +36,7 @@ title: AI infrastructure
 
 09/21
 
-: [Lec6: AI compute infra, scaling laws](/cs6501-ai-sys-fall26/assets/docs/lec6-ai-compute-infra.pdf)
+: [Lec6: AI compute infra, scaling laws](/cs6501-ai-sys-fall26/assets/docs/lec6-AI-compute-infra.pdf)
 
 : Reading: [mlsysbook: Compute Infrastructure](https://mlsysbook.ai/vol2/compute_infrastructure/compute_infrastructure.html) (required);
 [Hoffman et al. Scaling Laws (DeepMind)](https://arxiv.org/pdf/2203.15556) (required);
