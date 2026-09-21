@@ -7,11 +7,11 @@ title: Model training paradigm and performance engineering
 
 09/28
 
-: [Lec8: AI storage infrastructure](#)
+: [Lec7: AI storage infra, reliability](#)
 
 09/30
 
-: [Lec9: FlashAttention](#)
+: [Lec8: FlashAttention](#)
 
 : **Project proposal due (09/30)**{: .label .label-blue }
 
