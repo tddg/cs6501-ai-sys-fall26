@@ -11,6 +11,10 @@ nav_order: 8
 Being less concrete further out, the reading list is being
 incrementally updated to include more papers as we go. 
 
+[Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556)
+
+[Scaling Lwas for Neural Language Models](https://arxiv.org/pdf/2001.08361)
+
 [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135) [NIPS 2022]
 
 [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://dl.acm.org/doi/10.1145/3600006.3613165) [ACM SOSP 2023]
