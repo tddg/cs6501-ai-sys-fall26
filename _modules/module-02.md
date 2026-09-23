@@ -47,6 +47,7 @@ title: AI infrastructure
 09/23
 
 : [Lec6-2: AI computing infra, scaling laws](/cs6501-ai-sys-fall26/assets/docs/lec6-AI-computing-infra.pdf)
+  : [Video](https://edstem.org/us/courses/103280/discussion/8302796)
 
 : Reading see 09/21
 
