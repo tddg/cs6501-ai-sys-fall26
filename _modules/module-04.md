@@ -10,7 +10,7 @@ title: LLM inference
 
 10/07
 
-: [Lec9: Distributed training](#)
+: [Lec9: FlashAttention](#)
 
 : **Paper presentation signup due (10/07)**{: .label .label-purple }
 
