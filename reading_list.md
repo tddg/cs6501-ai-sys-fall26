@@ -54,3 +54,5 @@ incrementally updated to include more papers as we go.
 [LLM-as-a-Verifier: A General-Purpose Verification Framework](https://arxiv.org/abs/2607.05391)
 
 [A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing](https://arxiv.org/pdf/2608.13573)
+
+[RobustRL: Role-Based Fault Tolerance System for RL Post-Training](https://www.usenix.org/conference/osdi26/presentation/chen-zhenqian) [USENIX OSDI 2026]
