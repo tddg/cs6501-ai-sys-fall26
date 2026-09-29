@@ -55,4 +55,6 @@ incrementally updated to include more papers as we go.
 
 [A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing](https://arxiv.org/pdf/2608.13573)
 
+[DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale](https://arxiv.org/abs/2609.22978)
+
 [RobustRL: Role-Based Fault Tolerance System for RL Post-Training](https://www.usenix.org/conference/osdi26/presentation/chen-zhenqian) [USENIX OSDI 2026]
