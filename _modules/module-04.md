@@ -1,5 +1,5 @@
 ---
-title: LLM inference
+title: LLM inference and performance engineering
 ---
 
 **Week 7**
@@ -10,7 +10,7 @@ title: LLM inference
 
 10/07
 
-: [Lec9: FlashAttention](#)
+: [Lec8: Distributed training](#)
 
 : **Paper presentation signup due (10/07)**{: .label .label-purple }
 
@@ -19,9 +19,9 @@ title: LLM inference
 
 10/12
 
-: [Lec10: LLM inference II (vLLM, KVC, speculative decoding)](#)
+: [Lec9: Speculative decoding](#)
 
 10/14
 
-: [Lec11: AI agents](#)
+: [Lec10: FlashAttention](#)
 

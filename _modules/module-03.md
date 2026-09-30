@@ -1,5 +1,5 @@
 ---
-title: Model training paradigm and performance engineering
+title: Reliability
 ---
 
 
@@ -7,7 +7,7 @@ title: Model training paradigm and performance engineering
 
 09/28
 
-: [Lec7: AI storage infra, reliability](/cs6501-ai-sys-fall26/assets/docs/lec7-AI-storage-infra-reliability.pdf)
+: [Lec7-1: AI storage infra, reliability](/cs6501-ai-sys-fall26/assets/docs/lec7-AI-storage-infra-reliability.pdf)
   : [Video](https://edstem.org/us/courses/103280/discussion/8321699)
 
 : Reading: [mlsysbook: Storage Infrastructure](https://mlsysbook.ai/vol2/data_storage/data_storage.html) (required);
@@ -17,7 +17,10 @@ title: Model training paradigm and performance engineering
 
 09/30
 
-: [Lec8: Distributed training](#)
+: [Lec7-2: AI storage infra, reliability](/cs6501-ai-sys-fall26/assets/docs/lec7-AI-storage-infra-reliability.pdf)
+  : [Video](https://edstem.org/us/courses/103280/discussion/8332691)
+
+: Reading see 09/28
 
 : **Project proposal due (09/30)**{: .label .label-blue }
 
