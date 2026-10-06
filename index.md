@@ -81,11 +81,12 @@ and build a distributed AI application.
 * AI compute infrastructure
 * AI network infrastructure
 * AI storage infrastructure
+* AI infra reliability
 * Distributed training
 * Inference at scale
+* Speculative decoding
 * FlashAttention
 * vLLM
-* Speculative decoding
 * AI agents
 
 
