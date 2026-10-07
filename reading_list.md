@@ -65,6 +65,10 @@ incrementally updated to include more papers as we go.
 
 ### Large-scale training, post-training, and fault tolerance
 
+[MegaScale: Scaling Large Language Model Training to More Than 10,000 GPUs](https://www.usenix.org/conference/nsdi24/presentation/jiang-ziheng) [USENIX OSDI 2024]
+
+[Safeguarding LLM Training at Scale: Online SDC Detection and Insights from 35 Million GPU Hours](https://www.usenix.org/conference/osdi26/presentation/lei) [USENIX OSDI 2026]
+
 [Understanding Stragglers in Large Model Training Using What-if Analysis](https://www.usenix.org/conference/osdi25/presentation/lin-jinkun) [USENIX OSDI 2025]
 
 [RobustRL: Role-Based Fault Tolerance System for RL Post-Training](https://www.usenix.org/conference/osdi26/presentation/chen-zhenqian) [USENIX OSDI 2026]
