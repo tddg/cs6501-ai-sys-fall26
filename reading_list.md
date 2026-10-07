@@ -11,7 +11,8 @@ nav_order: 8
 Being less concrete further out, the reading list is being
 incrementally updated to include more papers as we go. 
 
-### Scaling laws and training efficiency
+
+### Scaling laws
 
 [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556) (☑️  already covered in lecture)
 
