@@ -44,7 +44,7 @@ incrementally updated to include more papers as we go.
 
 [PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](https://dl.acm.org/doi/10.1145/3694715.3695964) [ACM SOSP 2024]
 
-[KTransformers: Unleashing the Full Potential of CPU/GPU Hybrid Inference for MoE Models](https://dl.acm.org/doi/10.1145/3731569.3764843) [SOSP 2025]
+[KTransformers: Unleashing the Full Potential of CPU/GPU Hybrid Inference for MoE Models](https://dl.acm.org/doi/10.1145/3731569.3764843) [ACM SOSP 2025]
 
 [LLM in a Flash: Efficient Large Language Model Inference with Limited Memory](https://arxiv.org/pdf/2312.11514) [ACL 2024]
 
