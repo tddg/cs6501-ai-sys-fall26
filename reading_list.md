@@ -57,7 +57,7 @@ incrementally updated to include more papers as we go.
 
 ### Speculative and accelerated decoding
 
-[Accelerating Large Language Model Decoding with Speculative Sampling](https://arxiv.org/pdf/2302.01318)
+[Accelerating Large Language Model Decoding with Speculative Sampling](https://arxiv.org/pdf/2302.01318) (☑️  will be covered in lecture)
 
 [DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036)
 
