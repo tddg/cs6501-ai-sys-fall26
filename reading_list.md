@@ -61,7 +61,7 @@ incrementally updated to include more papers as we go.
 
 [DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036)
 
-[DSpark: Confidence-Scheduled Speculative Decoding with Semi=Autoregressive Generation](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
+[DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation](https://arxiv.org/abs/2607.05147)
 
 
 ### Large-scale training, post-training, and fault tolerance
