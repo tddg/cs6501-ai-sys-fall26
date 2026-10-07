@@ -11,9 +11,9 @@ nav_order: 8
 Being less concrete further out, the reading list is being
 incrementally updated to include more papers as we go. 
 
-[Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556)
+[Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556) (☑️  already covered in lecture)
 
-[Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)
+[Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361) (☑️  already covered in lecture)
 
 [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135) [NIPS 2022]
 
