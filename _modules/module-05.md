@@ -1,5 +1,5 @@
 ---
-title: Student paper presentations, guest lectures
+title: Student paper presentations
 ---
 
 
