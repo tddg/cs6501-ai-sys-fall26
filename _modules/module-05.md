@@ -2,6 +2,8 @@
 title: Student paper presentations
 ---
 
+For guidance on preparing slides and paper reviews, see the [Presentation](/cs6501-ai-sys-fall26/info/#presentation) and [Paper Review](/cs6501-ai-sys-fall26/info/#paper-review) sections of the [syllabus](/cs6501-ai-sys-fall26/info/).
+
 
 **Week 9**
 

@@ -67,13 +67,70 @@ people).
 Each student will be assigned one or more research papers (based on
 class size) to present during Week 9 to Week 14. 
 
-* **Preparation:** Prepare a 25-30 minutes presentation on the paper,
-summarizing the research problem, methods, results, and implications.
-Please send the slides to the instructor at least 3 days before the
-presentation.
+Paper presentation guidelines:
 
-* **Discussion:** Be prepared to answer questions and lead a discussion
-about the paper after your presentation. 
+* **Presentation:** Prepare a 25-30 minutes presentation on
+ the paper, summarizing the research problem, methods, results, and
+implications. 
+
+* **Slides:** Create the slides on your own rather than relying 
+on AI-generated slides. The most effective way to learn a new technique 
+(or a new topic) is to write it through yourself. 
+
+* **Slide deck submission:** Email your slides to the instructor at least 3
+days before the presentation.
+
+* **Hands-on demo:** You are encouraged to develop a small working demo
+that illustrates the paper's core technique, using coding agents as needed. 
+Walk the audience through your demo during the presentation. The goal is
+to gain hands-on experience with the technique rather than simply explaining it at
+a conceptual level. DIY is an effective way to learn. 
+
+* **Q&A and discussion:** Be prepared to answer questions and lead a discussion
+about the paper after your presentation. One of the best ways to
+assess your understanding is by asking yourself difficult questions:
+if you couldn't answer them, you've identified gaps in your
+understanding. The instructor (and all audience) may ask (many)
+questions throughout your presentation, so be prepared to address
+them thoughtfully and considently. 
+
+* **AI-tool policy for creating slides:** While we acknowledge the 
+convenience of AI tools like ChatGPT in the academic
+domain, it is crucial for students to cultivate their critical
+thinking. The slides created by students should
+reflect your own understanding into the content. Students
+may use AI tools for help understand the materials, but the slidess
+**must** be authored by the student. 
+
+
+## Paper Review
+
+Students are required to review papers thoroughly.  
+
+This class uses the following review protocol:
+
+* **Reading:** During each class, we will discuss two papers. You 
+should read at least **one of** these two papers before the class,
+making sure to understand the key ideas, designs, findings, and
+conclusions.
+
+* **Survey:** Fill out the survey for the papers of that class. 
+The survey needs to be submitted before the class. You are allowed 
+to miss at most **3** surveys without receiving penalty.
+
+* **Note for Presentor:** If you are presenting this paper in the
+class, you **don’t** need to submit the review for this class (this
+is not counted as missing reviews). 
+
+* **AI-tool policy for paper surveys:** While we acknowledge the 
+convenience of AI writing assistants like ChatGPT in the academic
+domain, it is crucial for students to cultivate their critical
+thinking and writing skills. The response to survey questions should
+reflect your own experience and insight into the content. Students
+may use AI tools for brainstorming initial ideas or checking grammar
+errors, but the surveys submitted **must** be authored by the
+student. Students are expected to elaborate their survey responses in
+the class.
 
 
 ## Late policy
