@@ -22,6 +22,7 @@ title: LLM inference and performance engineering
 10/12
 
 : [Lec8-2: Distributed training](/cs6501-ai-sys-fall26/assets/docs/lec8-distributed-training.pdf)
+  : [Video](https://edstem.org/us/courses/103280/discussion/8382932)
 
 : Reading: [mlsysbook: Distributed Training](https://mlsysbook.ai/vol2/distributed_training/distributed_training.html) (required);
 [ZeRO paper](https://arxiv.org/abs/1910.02054) (required);
@@ -29,7 +30,9 @@ title: LLM inference and performance engineering
 
 : **Paper presentation signup due (10/12)**{: .label .label-purple }
 
+
 10/14
 
-: [Lec9: Speculative decoding](#)
+: [Lec8-3: Distributed training](/cs6501-ai-sys-fall26/assets/docs/lec8-distributed-training.pdf)
 
+: Reading see 10/12
