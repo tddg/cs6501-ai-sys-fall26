@@ -5,5 +5,6 @@ date: 2026-10-11
 ---
 
 * Lecture 8's slides are updated.
+* Paper presentation schedule is online. 
 
 {: .fs-5 }
