@@ -21,7 +21,11 @@ title: LLM inference and performance engineering
 
 10/12
 
-: [Lec8-2: Distributed training](#)
+: [Lec8-2: Distributed training](/cs6501-ai-sys-fall26/assets/docs/lec8-distributed-training.pdf)
+
+: Reading: [mlsysbook: Distributed Training](https://mlsysbook.ai/vol2/distributed_training/distributed_training.html) (required);
+[ZeRO paper](https://arxiv.org/abs/1910.02054) (required);
+[PipeDream paper](https://deepakn94.github.io/assets/papers/pipedream-sosp19.pdf) (optional)
 
 : **Paper presentation signup due (10/12)**{: .label .label-purple }
 
