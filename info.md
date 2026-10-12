@@ -118,7 +118,7 @@ conclusions.
 The survey needs to be submitted before the class. You are allowed 
 to miss at most **3** surveys without receiving penalty.
 
-* **Note for Presentor:** If you are presenting this paper in the
+* **Note for Presenter:** If you are presenting this paper in the
 class, you **don’t** need to submit the review for this class (this
 is not counted as missing reviews). 
 
