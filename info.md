@@ -114,8 +114,9 @@ should read at least **one of** these two papers before the class,
 making sure to understand the key ideas, designs, findings, and
 conclusions.
 
-* **Survey:** Fill out the survey for the papers of that class. 
-The survey needs to be submitted before the class. You are allowed 
+* **Survey:** Choose one of the two paper review forms to complete.
+You are welcome to complete both if you wish.
+The review needs to be submitted before the class. You are allowed 
 to miss at most **3** surveys without receiving penalty.
 
 * **Note for Presenter:** If you are presenting this paper in the
