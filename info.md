@@ -114,7 +114,7 @@ should read at least **one of** these two papers before the class,
 making sure to understand the key ideas, designs, findings, and
 conclusions.
 
-* **Survey:** Choose one of the two paper review forms to complete.
+* **Review:** Choose one of the two paper review forms to complete.
 You are welcome to complete both if you wish.
 The review needs to be submitted before the class. You are allowed 
 to miss at most **3** surveys without receiving penalty.
@@ -123,7 +123,7 @@ to miss at most **3** surveys without receiving penalty.
 class, you **don’t** need to submit the review for this class (this
 is not counted as missing reviews). 
 
-* **AI-tool policy for paper surveys:** While we acknowledge the 
+* **AI-tool policy for paper reviews:** While we acknowledge the 
 convenience of AI writing assistants like ChatGPT in the academic
 domain, it is crucial for students to cultivate their critical
 thinking and writing skills. The response to survey questions should
