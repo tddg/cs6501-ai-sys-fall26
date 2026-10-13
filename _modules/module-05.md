@@ -13,6 +13,9 @@ For guidance on preparing slides and paper reviews, see the [Presentation](/cs65
 
 : [FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution](https://arxiv.org/abs/2608.16157v1)
 
+: **Review questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/103280/discussion/8387886)
+
+
 10/21
 
 : [RobustRL: Role-Based Fault Tolerance System for RL Post-Training](https://www.usenix.org/conference/osdi26/presentation/chen-zhenqian) [USENIX OSDI 2026]
