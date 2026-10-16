@@ -35,5 +35,6 @@ title: LLM inference and performance engineering
 10/14
 
 : [Lec8-3: Distributed training](/cs6501-ai-sys-fall26/assets/docs/lec8-distributed-training.pdf)
+  : [Video](https://edstem.org/us/courses/103280/discussion/8400719)
 
 : Reading see 10/12
