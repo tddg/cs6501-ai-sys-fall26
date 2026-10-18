@@ -22,6 +22,7 @@ For guidance on preparing slides and paper reviews, see the [Presentation](/cs65
 
 : [DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation](https://arxiv.org/abs/2607.05147)
 
+: **Review questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/103280/discussion/8407551)
 
 **Week 10**
 

@@ -7,5 +7,6 @@ date: 2026-10-13
 * Paper presentation schedule is online. 
 * Review questions for 10/19 are posted.
 * Lecture 8's slides are updated.
+* Review questions for 10/21 are posted.
 
 {: .fs-5 }
