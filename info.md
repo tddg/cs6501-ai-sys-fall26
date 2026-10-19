@@ -51,15 +51,20 @@ presentations and guest lectures during the final five weeks.
 * **Attendance:** Regular attendance is expected and will be taken into
 consideration when grading class participation.
 
+* **Preparation:** Read at least one of the two assigned papers
+before each class and come prepared to ask questions. Learning to
+formulate thoughtful questions is an important part of graduate
+training, and class discussions provide an opportunity to practice.
+
 * **Engagement:** You are expected to actively participate in class
 discussions *in a quality way*. 
 
   * By "quality", we mean that you’re contributing meaningfully to
 the discussion (e.g., highlighting genuine confusions, expanding idea
-to other contexts, answering leader’s questions, providing new angles
-of seeing the paper), instead of distracting the discussion (e.g.,
-ask irrelevant questions, add superficial comments, echo other
-people).
+to other contexts, responding to presenter's discussion questions,
+providing new angles of seeing the paper), instead of distracting the
+discussion (e.g., ask irrelevant questions, add superficial comments,
+echo other people).
 
 
 ## Presentation
