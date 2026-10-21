@@ -32,6 +32,8 @@ For guidance on preparing slides and paper reviews, see the [Presentation](/cs65
 
 : [LLM-as-a-Verifier: A General-Purpose Verification Framework](https://arxiv.org/abs/2607.05391)
 
+: **Review questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/103280/discussion/8420485)
+
 10/28
 
 : **Project checkpoint presentation**{: .label .label-red}
