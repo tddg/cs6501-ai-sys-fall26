@@ -56,6 +56,8 @@ For guidance on preparing slides and paper reviews, see the [Presentation](/cs65
 
 : [FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving](https://arxiv.org/abs/2501.01005) [MLSys 2025]
 
+: **Review questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/103280/discussion/8427365)
+
 
 **Week 12**
 
