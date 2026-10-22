@@ -43,7 +43,7 @@ For guidance on preparing slides and paper reviews, see the [Presentation](/cs65
 
 11/02
 
-: [FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving](https://arxiv.org/abs/2501.01005) [MLSys 2025]
+: [A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing](https://arxiv.org/pdf/2608.13573)
 
 : [CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving](https://dl.acm.org/doi/10.1145/3651890.3672274) [SIGCOMM 2024]
 
@@ -52,7 +52,7 @@ For guidance on preparing slides and paper reviews, see the [Presentation](/cs65
 
 : [Murakkab: Resource-Efficient Agentic Workflow Orchestration in Cloud Platforms](https://www.usenix.org/conference/osdi26/presentation/chaudhry) [USENIX OSDI 2026]
 
-: [A Year in LLM Serving: Workload Evolution, Caching and Load-Balancing](https://arxiv.org/pdf/2608.13573)
+: [FlashInfer: Efficient and Customizable Attention Engine for LLM Inference Serving](https://arxiv.org/abs/2501.01005) [MLSys 2025]
 
 
 **Week 12**
