@@ -47,6 +47,8 @@ For guidance on preparing slides and paper reviews, see the [Presentation](/cs65
 
 : [CacheGen: KV Cache Compression and Streaming for Fast Large Language Model Serving](https://dl.acm.org/doi/10.1145/3651890.3672274) [SIGCOMM 2024]
 
+: **Review questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/103280/discussion/8427360)
+
 
 11/04
 
