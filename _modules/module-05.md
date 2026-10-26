@@ -63,13 +63,13 @@ For guidance on preparing slides and paper reviews, see the [Presentation](/cs65
 
 11/09
 
-: [Hawkeye: Hardware-Aware GPU Kernel Optimization with Minimal Supervision](https://www.alphaxiv.org/pdf/2608.hawkeye-hardware-aware-gpu-kernel-optimization)
+: [DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036)
 
 : [H2O: heavy-hitter oracle for efficient generative inference of large language models](https://arxiv.org/pdf/2306.14048) [NIPS 2023]
 
 11/11
 
-: [DFlash: Block Diffusion for Flash Speculative Decoding](https://arxiv.org/abs/2602.06036)
+: [Hawkeye: Hardware-Aware GPU Kernel Optimization with Minimal Supervision](https://www.alphaxiv.org/pdf/2608.hawkeye-hardware-aware-gpu-kernel-optimization)
 
 : [PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](https://dl.acm.org/doi/10.1145/3694715.3695964) [ACM SOSP 2024]
 
