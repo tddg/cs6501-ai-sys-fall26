@@ -67,12 +67,15 @@ For guidance on preparing slides and paper reviews, see the [Presentation](/cs65
 
 : [H2O: heavy-hitter oracle for efficient generative inference of large language models](https://arxiv.org/pdf/2306.14048) [NIPS 2023]
 
+: **Review questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/103280/discussion/8489199)
+
 11/11
 
 : [Hawkeye: Hardware-Aware GPU Kernel Optimization with Minimal Supervision](https://www.alphaxiv.org/pdf/2608.hawkeye-hardware-aware-gpu-kernel-optimization)
 
 : [PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU](https://dl.acm.org/doi/10.1145/3694715.3695964) [ACM SOSP 2024]
 
+: **Review questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/103280/discussion/8489205)
 
 **Week 13**
 
