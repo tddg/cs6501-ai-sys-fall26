@@ -85,11 +85,16 @@ For guidance on preparing slides and paper reviews, see the [Presentation](/cs65
 
 : [Mirage: A Multi-Level Superoptimizer for Tensor Programs](https://www.usenix.org/conference/osdi25/presentation/wu-mengdi) [OSDI 2025]
 
+: **Review questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/103280/discussion/8517802)
+
+
 11/18
 
 : [DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://www.usenix.org/conference/osdi24/presentation/zhong-yinmin) [USENIX OSDI 2024]
 
 : [CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation](https://arxiv.org/abs/2602.24286)
+
+: **Review questions:**{: .label .label-blue } [Link](https://edstem.org/us/courses/103280/discussion/8517837)
 
 : **Inference Speedrun report due**{: .label .label-purple }
 
