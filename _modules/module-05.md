@@ -121,14 +121,14 @@ For guidance on preparing slides and paper reviews, see the [Presentation](/cs65
 
 12/02
 
-: **Project presentation II**{: .label .label-red}
+: **Project presentation I**{: .label .label-red}
 
 
 **Week 16**
 
 12/07
 
-: **Project presentation III**{: .label .label-red}
+: **Project presentation II**{: .label .label-red}
 
 
 12/09
