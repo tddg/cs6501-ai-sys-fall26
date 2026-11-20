@@ -117,7 +117,7 @@ For guidance on preparing slides and paper reviews, see the [Presentation](/cs65
 
 11/30
 
-: **Project presentation I**{: .label .label-red}
+: **Hack day (no class)**{: .label .label-green}
 
 12/02
 
